@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="20789" started-at="2016-03-04T11:48:56Z" finished-at="2016-03-04T11:49:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20789" started-at="2016-03-04T11:48:56Z" finished-at="2016-03-04T11:49:17Z">
+      <class name="org.TestNG.app.BingTranslator.Test.BingTranslatorTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.TestNG.app.BingTranslator.Test.BingTranslatorTest@52af6cff]" name="setup" is-config="true" duration-ms="3924" started-at="2016-03-04T17:18:56Z" finished-at="2016-03-04T17:19:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_01()[pri:0, instance:org.TestNG.app.BingTranslator.Test.BingTranslatorTest@52af6cff]" name="Test_01" duration-ms="16382" started-at="2016-03-04T17:19:00Z" finished-at="2016-03-04T17:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:org.TestNG.app.BingTranslator.Test.BingTranslatorTest@52af6cff]" name="close_Test_Session" is-config="true" duration-ms="469" started-at="2016-03-04T17:19:16Z" finished-at="2016-03-04T17:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- org.TestNG.app.BingTranslator.Test.BingTranslatorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

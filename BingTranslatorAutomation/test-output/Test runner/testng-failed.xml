@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Test runner]" parallel="classes">
+  <test name="Package with subpackages">
+    <packages>
+      <package name="org.TestNG.app.BingTranslator.Test"/>
+    </packages>
+    <classes>
+      <class name="org.TestNG.app.BingTranslator.Test.BingTranslatorCucumberTest"/>
+      <class name="org.TestNG.app.BingTranslator.Test.RunTests"/>
+    </classes>
+  </test> <!-- Package with subpackages -->
+</suite> <!-- Failed suite [Test runner] -->
